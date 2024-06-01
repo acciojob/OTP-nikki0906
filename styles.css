@@ -11,6 +11,7 @@ body {
 
 .container {
   text-align: center;
+  margin-top: 50px;
 }
 
 #verification_heading {
@@ -24,6 +25,7 @@ body {
 }
 
 .code-container {
+  display: inline-block;	
   display: flex;
   justify-content: space-between;
   max-width: 240px;
